@@ -1,0 +1,53 @@
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(253, 253, 253, 0.986);
+    padding: 15px;
+    font-size:20px;
+    font-family: Verdana;
+    font-weight:400;
+    color:#ffffff;
+    border: 4px solid black;
+   border-radius:50px;
+}
+
+body{
+    margin: 0px;
+    background-color:#6ec0b9;
+    border: 4px solid black;
+   border-radius:40px;
+}
+
+.grid{
+   display: flex;
+   flex-wrap: wrap; 
+   border: 4px solid black;
+   border-radius:50px;
+   margin: 10px;
+   padding:10px;
+}
+
+.grid img{
+    border:4px solid rgb(30, 33, 214);
+    border-radius: 50px;
+}
+
+.origami{
+    display: inline-block;
+    border: 4px solid blue;
+    border-radius:20px;
+    background-color:rgb(69, 231, 231);
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:unset;
+}
+.bodyimg{
+   
+    border-radius:20px;
+    background-color:#010808;
+    font-size:25px;
+    width: 100%;
+ }
